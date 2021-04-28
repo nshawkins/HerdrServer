@@ -40,17 +40,17 @@ namespace HerdrServer
             database = "herdrdb";
 
             //STANDARD USER
-            //uid = "herdru1";
-            //password = "ST3V3nordstrom<3";
+                //uid = "herdru1";
+                //password = "ST3V3nordstrom<3";
             //ADMIN USER
-            // uid = "admin";
-            // password = "ctOqE9NPuC1WtJWXooSD";
+                // uid = "admin";
+                // password = "ctOqE9NPuC1WtJWXooSD";
             //NEW USER
-            //uid = "ec2server";
-            //password = "HavanaBanana!123";
+                //uid = "ec2server";
+                //password = "HavanaBanana!123";
             //NEWER USER
-            uid = "dbadmin";
-            password = "SeniorProject21";
+                uid = "dbadmin";
+                password = "SeniorProject21";
 
             connectionString =
                 "Server=" + server + ";" +
